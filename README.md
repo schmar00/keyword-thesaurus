@@ -1,5 +1,7 @@
 # EGDI Keyword Thesaurus
-:red_circle: `latest version` -> see - **[v2.2](#version-22)**   
+:soon: `latest version` -> see - **[v2.2](#version-22)**   
+:red_circle: `currently available at` https://resource.geosphere.at/graphdb/graphs  
+:red_circle: `Sparql endpoint at` https://resource.geosphere.at/graphdb/repositories/keyword (REST API)  
 
 A collection of ~2500 geoscientific terms in English (keywords), with unique web addresses (URIs), delivered in RDF format, with translations in different languages, with links to standardized codelists (INSPIRE, GeoSciML, GEMET), thesaurus like modeled in accordance with the search use case and metadata tagging in MICKA. Hosted in an EGDI central repository, online available via web API (Sparql) to drive search systems.
 Deployed in versioned updates according to a governance workflow. 
