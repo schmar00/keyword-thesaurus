@@ -5,13 +5,14 @@
 
 A collection of ~2500 geoscientific terms in English (keywords), with unique web addresses (URIs), delivered in RDF format, with translations in different languages, with links to standardized codelists (INSPIRE, GeoSciML, GEMET), thesaurus like modeled in accordance with the search use case and metadata tagging in MICKA. Hosted in an EGDI central repository, online available via web API (Sparql) to drive search systems.
 Deployed in versioned updates according to a governance workflow. 
-
-## version 1.0 (2019)
+___
+## Version 1.0 (2019)
 [GeoERA-Keyword-Thesaurus_v1](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Keyword%20Thesaurus/GeoERA-Keyword-Thesaurus_1.0.zip)
 includes a selection of evaluated and compiled vocabularies, mainly from resources like GEMET, INSPIRE or CGI - see our [report](https://geoera.eu/wp-content/uploads/2019/11/D4.2-GeoERA-Keyword-Thesaurus.pdf)
+___
+## Version 1.1 (2020)
+**Release notes (draft 3.2.2020):**  
 
-## version 1.1 (2020)
-**release notes (draft 3.2.2020):**  
 Fully translated into German language (where not English labels used)  
   
 **1) Concepts merged, URI voided, and preserved name as hiddenLabel:**  
@@ -108,9 +109,10 @@ global warming, greenhouse effect, ozone layer depletion, sea level rise, climat
   
 **9) Removed remaining commas or slashes from URIs**  
 http://resource.geolba.ac.at/geoera_keyword/oil,-gas-and-chemicals-network-node => http://resource.geolba.ac.at/geoera_keyword/oil-gas-and-chemicals-network-node
- 
-## version 2.0 (2020)
-**release notes (20.3.2020):**  
+___
+## Version 2.0 (2020)
+**Release notes (20.3.2020):**  
+
 download latest version of **GeoERA Keyword Thesaurus** v2.0 at this GitHub page or directly from **European Geoscience Registry** at https://data.geoscience.earth/ncl/geoera/keyword  
 
 **1) new URIs according to new EGS domain name:**  
@@ -151,10 +153,10 @@ Scripts like above also could be (url encoded) embedded into URLs in order to ge
 https://data.geoscience.earth/ncl/system/query?query=prefix%20skos%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23%3E%0Aselect%20distinct%20%3Furi%20%28str%28%3Fk%29%20as%20%3Fkeyword%29%20%28str%28%3Ft%29%20as%20%3Ftranslation%29%20%28group_concat%28%3Fc%3Bseparator%3D%22%3B%20%22%29%20as%20%3Fcategories%29%0Awhere%20%7B%0A%3Furi%20a%20skos%3AConcept%3B%20skos%3AprefLabel%20%3Fk%0Afilter%28regex%28str%28%3Furi%29%2C%20%27ncl%2Fgeoera%2Fkeyword%27%29%29%0Afilter%28lang%28%3Fk%29%3D%22en%22%29%0Aoptional%7B%3Furi%20skos%3AprefLabel%20%3Ft%20filter%28lang%28%3Ft%29%3D%22fi%22%29%7D%0Aoptional%7B%3Furi%20%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2Fcategory%3E%20%3Fc%7D%0A%7D%0Agroup%20by%20%3Furi%20%3Fk%20%3Ft%0Aorder%20by%20desc%20%28%3Ft%29&format=text/csv
 
 **Note**: special characters are always coded to utf-8 standard. Do not mistake with ANSI.  
-   
-   
-## version 2.1 (2021)
-**release notes (May 17, 2021):**  
+___
+## Version 2.1 (2021)
+**Release notes (May 17, 2021):**  
+
 **1) Concepts merged, URI voided, and preserved names as hiddenLabel:**  
 mineral occurence (1204) => mineral occurrence (1195) - misspelling  
 geophysical measurement (377) => geophysical measurement (405) - double entry  
@@ -186,10 +188,10 @@ https://github.com/schmar00/keyword-thesaurus/blob/cf094666a23d23d20b275fa9b294b
 
 **published 2023 at**  
 [![DOI](https://zenodo.org/badge/168712415.svg)](https://zenodo.org/doi/10.5281/zenodo.10057196) 
+___
+## Version 2.2 
+**Release notes (2025):**  
 
-   
-## version 2.2 
-**release notes (2025):**  
 **1) Concepts merged, URI voided, and preserved names as hiddenLabel:**  
 
 
@@ -216,6 +218,9 @@ https://github.com/schmar00/keyword-thesaurus/blob/cf094666a23d23d20b275fa9b294b
   
 **9) download a graphical display of v2.2**  
 
+
+
+  
 
 
 
