@@ -184,7 +184,7 @@ none
 **9) download a graphical display of v2.1**  
 https://github.com/schmar00/keyword-thesaurus/blob/cf094666a23d23d20b275fa9b294bc1e4b647641/img/keywords_v21.pdf  
 
-**published at**  
+**published 2023 at**  
 [![DOI](https://zenodo.org/badge/168712415.svg)](https://zenodo.org/doi/10.5281/zenodo.10057196) 
 
    
