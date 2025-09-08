@@ -154,7 +154,7 @@ https://data.geoscience.earth/ncl/system/query?query=prefix%20skos%3A%20%3Chttp%
    
    
 ## version 2.1
-**release notes:**  
+**release notes (May 17, 2021):**  
 **1) Concepts merged, URI voided, and preserved names as hiddenLabel:**  
 mineral occurence (1204) => mineral occurrence (1195) - misspelling  
 geophysical measurement (377) => geophysical measurement (405) - double entry  
