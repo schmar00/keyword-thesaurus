@@ -6,11 +6,11 @@
 A collection of ~2500 geoscientific terms in English (keywords), with unique web addresses (URIs), delivered in RDF format, with translations in different languages, with links to standardized codelists (INSPIRE, GeoSciML, GEMET), thesaurus like modeled in accordance with the search use case and metadata tagging in MICKA. Hosted in an EGDI central repository, online available via web API (Sparql) to drive search systems.
 Deployed in versioned updates according to a governance workflow. 
 
-## version 1.0
+## version 1.0 (2019)
 [GeoERA-Keyword-Thesaurus_v1](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Keyword%20Thesaurus/GeoERA-Keyword-Thesaurus_1.0.zip)
 includes a selection of evaluated and compiled vocabularies, mainly from resources like GEMET, INSPIRE or CGI - see our [report](https://geoera.eu/wp-content/uploads/2019/11/D4.2-GeoERA-Keyword-Thesaurus.pdf)
 
-## version 1.1
+## version 1.1 (2020)
 **release notes (draft 3.2.2020):**  
 Fully translated into German language (where not English labels used)  
   
@@ -109,7 +109,7 @@ global warming, greenhouse effect, ozone layer depletion, sea level rise, climat
 **9) Removed remaining commas or slashes from URIs**  
 http://resource.geolba.ac.at/geoera_keyword/oil,-gas-and-chemicals-network-node => http://resource.geolba.ac.at/geoera_keyword/oil-gas-and-chemicals-network-node
  
-## version 2.0
+## version 2.0 (2020)
 **release notes (20.3.2020):**  
 download latest version of **GeoERA Keyword Thesaurus** v2.0 at this GitHub page or directly from **European Geoscience Registry** at https://data.geoscience.earth/ncl/geoera/keyword  
 
@@ -153,7 +153,7 @@ https://data.geoscience.earth/ncl/system/query?query=prefix%20skos%3A%20%3Chttp%
 **Note**: special characters are always coded to utf-8 standard. Do not mistake with ANSI.  
    
    
-## version 2.1
+## version 2.1 (2021)
 **release notes (May 17, 2021):**  
 **1) Concepts merged, URI voided, and preserved names as hiddenLabel:**  
 mineral occurence (1204) => mineral occurrence (1195) - misspelling  
@@ -188,7 +188,7 @@ https://github.com/schmar00/keyword-thesaurus/blob/cf094666a23d23d20b275fa9b294b
 [![DOI](https://zenodo.org/badge/168712415.svg)](https://zenodo.org/doi/10.5281/zenodo.10057196) 
 
    
-## version 2.2
+## version 2.2 (2025)
 **release notes:**  
 **1) Concepts merged, URI voided, and preserved names as hiddenLabel:**  
 
