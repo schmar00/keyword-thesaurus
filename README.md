@@ -1,5 +1,5 @@
 # GeoERA Keyword Thesaurus
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `latest version` -> see **[v2.1](https://github.com/GeoEra-GIP/WP4-Semantics/tree/master/Keyword%20Thesaurus#version-21)**  
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `latest version` -> see - [v2.1](# version 2.1) 
 
 A collection of ~2500 geoscientific terms in English (keywords), with unique web addresses (URIs), delivered in RDF format, with translations in different languages, with links to standardized codelists (INSPIRE, GeoSciML, GEMET), thesaurus like modeled in accordance with the search use case and metadata tagging in MICKA. Hosted in an EGDI central repository, online available via web API (Sparql) to drive search systems.
 Deployed in versioned updates according to a governance workflow. See also our GitHub **[project](https://github.com/GeoEra-GIP/WP4-Semantics/projects/1)** or **[PDF](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Keyword%20Thesaurus/img/keywords.pdf)** for overview.
@@ -186,7 +186,7 @@ none
 **8) Correction of "displaced" mappings**  
 none  
 **9) download a graphical display of v2.1**  
-https://github.com/GeoEra-GIP/WP4-Semantics/raw/master/Keyword%20Thesaurus/img/keywords_v21.pdf  
+https://github.com/schmar00/keyword-thesaurus/blob/cf094666a23d23d20b275fa9b294bc1e4b647641/img/keywords_v21.pdf    
 
 
 
