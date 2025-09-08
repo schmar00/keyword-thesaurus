@@ -188,8 +188,8 @@ https://github.com/schmar00/keyword-thesaurus/blob/cf094666a23d23d20b275fa9b294b
 [![DOI](https://zenodo.org/badge/168712415.svg)](https://zenodo.org/doi/10.5281/zenodo.10057196) 
 
    
-## version 2.2 (2025)
-**release notes:**  
+## version 2.2 
+**release notes (2025):**  
 **1) Concepts merged, URI voided, and preserved names as hiddenLabel:**  
 
 
