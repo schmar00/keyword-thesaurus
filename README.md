@@ -192,43 +192,7 @@ ___
 ## Version 2.2 (2025)
 **Release notes (minor release):**  
 
-**Release date:** 2026-01-25
 
-## Summary
-This minor release updates the GeoERA Keyword Vocabulary from version 2.1 to 2.2.  
-It enables the use of newly defined keyword URIs without introducing a new base URI.
-
-## Statistics
-- **Total keywords:** 2,753  
-- **New concepts added:** 156  
-- **Main contributors:** GSEU-WP3 Geoenergy group
-
-## Changes
-- Addition of new keyword concepts required by ongoing work package activities  
-- No changes to existing keyword URIs  
-- Base URI remains unchanged  
-- Fully backward compatible with v2.1
-
-## Language and Translations
-The **primary language** of the keyword vocabulary is **English (en)**.
-
-Newly added keyword concepts are translated into the following languages (ISO 639-1 codes):  
-**de, pt, hu, bs, hr, cs, da, nl, fr, it, pl, sr, sq**
-
-Additional keyword concepts are available in:  
-**no, lt, sk, sl, sv, mt, is, es, ro**
-
-⚠️ **Note:** Translation coverage is **incomplete**. Not all keyword concepts are available in all listed languages.
-
-## Open Issues
-- The discussion about a possible new base URI for assignment as an EGDI keyword vocabulary is still ongoing.  
-- Improvement and update of categorization with regard to defined use cases
-  
-## Outlook
-A future major release in form of a new version as EGDI keyword vocabulary is planned, potentially including:
-- a new base URI (subject to EGDI approval)
-- an updated keyword categorisation
-- contributions from the EGS-SIEG Editorial Board
 
 
   
