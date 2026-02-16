@@ -195,11 +195,43 @@ ___
 
 **Overview**
 
-- Number of concepts: 2,753
+- Number of concepts: 2,752
 
 - 16 categories 
 
 - Number of supported languages: 27
+    - 9 languages have a translation coverage of over 80% and are therefore suitable for use (see statistics table below)
+
+
+| lang | count | percentage |
+|------|-------|------------|
+| en   | 2752  | 100        |
+| de   | 2713  | 99         |
+| pt   | 2709  | 98         |
+| cs   | 2707  | 98         |
+| fi   | 2557  | 93         |
+| es   | 2531  | 92         |
+| sl   | 2371  | 86         |
+| hu   | 2233  | 81         |
+| it   | 2204  | 80         |
+| nl   | 1801  | 65         |
+| fr   | 947   | 34         |
+| pl   | 946   | 34         |
+| da   | 942   | 34         |
+| lt   | 795   | 29         |
+| et   | 794   | 29         |
+| sk   | 792   | 29         |
+| no   | 783   | 28         |
+| sv   | 743   | 27         |
+| hr   | 734   | 27         |
+| ro   | 625   | 23         |
+| el   | 624   | 23         |
+| is   | 613   | 22         |
+| uk   | 612   | 22         |
+| sq   | 153   | 6          |
+| sr   | 153   | 6          |
+| bs   | 152   | 6          |
+| mt   | 1     | 0          |
 
  <br>
 
@@ -231,12 +263,12 @@ None
 
 **5) Concepts newly created** <br>
 
-157 added concepts, mostly provided by GSEU-WP3 Geoenergy group
+156 added concepts, mostly provided by GSEU-WP3 Geoenergy group
 
-4D seismic survey (2753),  Abandoned well (2599),  Active project (2601),  aquifer depth (2602),  Aquifer Thermal Energy Storage (2603),  Arias intensity (2604),  Borehole Thermal Energy Storage (2605),  Bottomhole pressure (2606),  Brine (2607),  carbon capture (2610),  carbon capture and storage (2750),  carbon capture and storage infrastructure (2608),  Closed project (2609),  CO2 leakage (2611),  CO2 thermal energy storage (2613),  CO2 transport (2612),  coking coal (2754),  commercial capacity (2614),  Conductive heat (2615),  Construction phase (2616),  Convective heat (2617),  DC resistivity (2618),  Debris flow (2619),  deep geothermal energy (2620),  Demonstration phase (2621),  Depleted gas field (2622),  Depleted oil field (2623),  Development phase (2624),  direct air capture and storage (2625),  dynamic capacity (2626),  Dynamic model (2627),  Earthquake intensity (2628),  Earthquake magnitude (2751),  Earthquake parameters (2629),  Effective porosity (2630),  electromagnetic survey (2631),  emission points (2632),  energy infrastructure (2633),  energy output (2634),  enhanced geothermal system (2635),  Enhanced Oil Recovery (2636),  Enthalpy (2637),  environmental conflicts (2638),  environmental protected areas (2639),  Epicentre (2640),  exploitation permitting (2641),  Exploitation phase (2752),  Exploitation potential (2642),  exploration permitting (2643),  Exploration phase (2644),  extractable heat (2645),  Fluid chemistry (2646),  Fluid physical properties (2647),  Fluid temperature (2648),  geoenergy hazard (2650),  Geological cross section (2651),  geological information (2652),  geological pressure (2653),  Geothermal modelling (2654),  geothermal powerplant (2655),  ground penetrating radar (2656),  Groundwater composition monitoring (2657),  groundwater heat exchanger (2658),  Groundwater temperature (2659),  Hard rock cave (2660),  Heat flow (2661),  Heat in place (2662),  heat transfer (2663),  heating potential (2664),  Hot dry rock (2665),  Hot dry rock system (2666),  hydraulic stimulation (2667),  Hydrogeothermal (2668),  hydrogeothermal regions (2669),  hydrological feature (2670),  hydrostatic pressure (2671),  hydrothermal system (2672),  Hypocentre (2673),  induced polarization (2674),  injection points (2675),  injection rate (2676),  injection zone (2677),  injectivity (2678),  isotherms (2679),  leakage pathway (2680),  limitations of use (2681),  lithium brine (2682),  lithostatic pressure (2683),  migration (2684),  mine thermal energy storage (2685),  mineral scaling (2686),  mineralisation (2687),  monitoring well (2688),  multi channel surface wave analysis (2689),  net aquifer thickness (2690),  offshore and onshore area (2755),  offshore and onshore mining (2757),  offshore area (2691),  onshore area (2756),  original oil in place (2692),  orphan wells (2693),  passive seismic survey (2694),  peak ground acceleration (2695),  Pilot phase (2696),  pipeline terminals (2697),  Plant decommissioning (2698),  pore pressure (2699),  Primary porosity (2700),  Project status (2701),  prospective area (2702),  regional aquifer (2703),  regulatory requirements (2704),  renewable accelerated areas (2705),  renewable thermal energy (2706),  reservoir depth (2707),  reservoir flow rate (2708),  reservoir pressure (2709),  reservoir thickness (2710),  resistivity contact (2711),  rock-fluid interaction (2712),  saline aquifer (2713),  salt cavern (2714),  seal efficiency (2715),  seal properties (2716),  seismic reflection (2717),  seismic refraction (2718),  seismic site effects (2719),  seismic survey (2720),  seismic tomography (2721),  self-potential (2722),  soil gas monitoring (2723),  spill point (2724),  Static model (2725),  storage capacity (2726),  storage efficency (2727),  storage potential (2728),  storage readiness level (2729),  stratigraphic trap (2730),  structural trap (2731),  subsoil classes (2732),  surface rupture (2733),  technical potential (2734),  temporal underground storage (2735),  temporary underground gas storage (2736),  theoretical potential (2737),  theorical capacity (2738),  thermal capacity (2739),  thermal conductivity (2740),  thermophysical data (2741),  time-domain electromagnetic survey (2742),  trans-national (2743),  trap (2744),  underground thermal energy storage (2745),  very low frequency electromagnetic survey (2746),  volumetric capacity (2747),  water chemistry (2748),  wellhead pressure (2749)
+4D seismic survey (2753),  Abandoned well (2599),  Active project (2601),  aquifer depth (2602),  Aquifer Thermal Energy Storage (2603),  Arias intensity (2604),  Borehole Thermal Energy Storage (2605),  Bottomhole pressure (2606),  Brine (2607),  carbon capture (2610),  carbon capture and storage (2750),  carbon capture and storage infrastructure (2608),  Closed project (2609),  CO2 leakage (2611),  CO2 thermal energy storage (2613),  CO2 transport (2612),  coking coal (2754),  commercial capacity (2614),  Conductive heat (2615),  Construction phase (2616),  Convective heat (2617),  DC resistivity (2618),  Debris flow (2619),  deep geothermal energy (2620),  Demonstration phase (2621),  Depleted gas field (2622),  Depleted oil field (2623),  Development phase (2624),  direct air capture and storage (2625),  dynamic capacity (2626),  Dynamic model (2627),  Earthquake intensity (2628),  Earthquake magnitude (2751),  Earthquake parameters (2629),  Effective porosity (2630),  electromagnetic survey (2631),  emission points (2632),  energy infrastructure (2633),  energy output (2634),  enhanced geothermal system (2635),  Enhanced Oil Recovery (2636),  Enthalpy (2637),  environmental conflicts (2638),  environmental protected areas (2639),  Epicentre (2640),  exploitation permitting (2641),  Exploitation phase (2752),  Exploitation potential (2642),  exploration permitting (2643),  Exploration phase (2644),  extractable heat (2645),  Fluid chemistry (2646),  Fluid physical properties (2647),  Fluid temperature (2648),  geoenergy hazard (2650),  Geological cross section (2651),  geological information (2652),  geological pressure (2653),  Geothermal modelling (2654),  geothermal powerplant (2655),  ground penetrating radar (2656),  Groundwater composition monitoring (2657),  groundwater heat exchanger (2658),  Groundwater temperature (2659),  Hard rock cave (2660),  Heat flow (2661),  Heat in place (2662),  heat transfer (2663),  heating potential (2664),  Hot dry rock (2665),  Hot dry rock system (2666),  hydraulic stimulation (2667),  Hydrogeothermal (2668),  hydrogeothermal regions (2669),  hydrological feature (2670),  hydrostatic pressure (2671),  hydrothermal system (2672),  Hypocentre (2673),  induced polarization (2674),  injection points (2675),  injection rate (2676),  injection zone (2677),  injectivity (2678),  isotherms (2679),  leakage pathway (2680),  limitations of use (2681),  lithium brine (2682),  lithostatic pressure (2683),  migration (2684),  mine thermal energy storage (2685),  mineral scaling (2686),  mineralisation (2687),  monitoring well (2688),  multi channel surface wave analysis (2689),  net aquifer thickness (2690),  offshore and onshore area (2755),  offshore and onshore mining (2757),  offshore area (2691),  onshore area (2756),  original oil in place (2692),  orphan wells (2693),  passive seismic survey (2694),  peak ground acceleration (2695),  Pilot phase (2696),  pipeline terminals (2697),  Plant decommissioning (2698),  pore pressure (2699),  Primary porosity (2700),  Project status (2701),  prospective area (2702),  regional aquifer (2703),  regulatory requirements (2704),  renewable accelerated areas (2705),  renewable thermal energy (2706),  reservoir depth (2707),  reservoir flow rate (2708),  reservoir pressure (2709),  reservoir thickness (2710),  resistivity contact (2711),  rock-fluid interaction (2712),  saline aquifer (2713),  salt cavern (2714),  seal efficiency (2715),  seal properties (2716),  seismic reflection (2717),  seismic refraction (2718),  seismic site effects (2719),  seismic survey (2720),  seismic tomography (2721),  self-potential (2722),  soil gas monitoring (2723),  spill point (2724),  Static model (2725),  storage capacity (2726),  storage efficency (2727),  storage potential (2728),  storage readiness level (2729),  stratigraphic trap (2730),  structural trap (2731),  subsoil classes (2732),  surface rupture (2733),  technical potential (2734),  temporal underground storage (2735),  temporary underground gas storage (2736),  theoretical potential (2737),  theorical capacity (2738),  thermal capacity (2739),  thermal conductivity (2740),  thermophysical data (2741),  trans-national (2743),  trap (2744),  underground thermal energy storage (2745),  very low frequency electromagnetic survey (2746),  volumetric capacity (2747),  water chemistry (2748),  wellhead pressure (2749)
 
 **6) New ScopeNotes**
-"GSEU-WP3" remark for all newly implemented GSE-WP3 keywords
+"GSEU-WP3" remark for all newly implemented GSEU-WP3 keywords
 
 
 **7) New skos:broader** <br>
