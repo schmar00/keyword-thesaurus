@@ -202,7 +202,7 @@ ___
 - Number of supported languages: 27
 
 
-- No Change of Base URI <br>
+ <br>
 
 
 **Changes Compared to Version 2.1:**
