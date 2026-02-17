@@ -191,7 +191,7 @@ https://github.com/schmar00/keyword-thesaurus/blob/cf094666a23d23d20b275fa9b294b
 ___
 ## Version 2.2 (2026)
 **Release notes (minor release):**  
-
+Dynamic Thesaurus Extension During GSEU
 
 **Overview**
 
