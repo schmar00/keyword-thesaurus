@@ -1,5 +1,5 @@
 # EGDI Keyword Thesaurus
-:soon: `latest version` -> see - **[v2.2](#version-22)**   
+:soon: `latest version` -> see - **[v2.2](#version-22-2026)**   
 :red_circle: `currently available at` https://resource.geosphere.at/graphdb/graphs  
 :red_circle: `Sparql endpoint at` https://resource.geosphere.at/graphdb/repositories/keyword (REST API)  
 
