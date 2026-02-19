@@ -191,7 +191,7 @@ https://github.com/schmar00/keyword-thesaurus/blob/cf094666a23d23d20b275fa9b294b
 ___
 ## Version 2.2 (2026)
 **Release notes (minor release):**  
-Dynamic Thesaurus Extension During GSEU
+Additions to Thesaurus terms according to GSEU project  
 
 **Overview**
 
@@ -200,41 +200,8 @@ Dynamic Thesaurus Extension During GSEU
 - 16 categories 
 
 - Number of supported languages: 27
-    - 9 languages have a translation coverage of over 80% and are therefore suitable for use (see statistics table below)
-
-
-| lang | count | percentage |
-|------|-------|------------|
-| en   | 2752  | 100        |
-| de   | 2713  | 99         |
-| pt   | 2709  | 98         |
-| cs   | 2707  | 98         |
-| fi   | 2557  | 93         |
-| es   | 2531  | 92         |
-| sl   | 2371  | 86         |
-| hu   | 2233  | 81         |
-| it   | 2204  | 80         |
-| nl   | 1801  | 65         |
-| fr   | 947   | 34         |
-| pl   | 946   | 34         |
-| da   | 942   | 34         |
-| lt   | 795   | 29         |
-| et   | 794   | 29         |
-| sk   | 792   | 29         |
-| no   | 783   | 28         |
-| sv   | 743   | 27         |
-| hr   | 734   | 27         |
-| ro   | 625   | 23         |
-| el   | 624   | 23         |
-| is   | 613   | 22         |
-| uk   | 612   | 22         |
-| sq   | 153   | 6          |
-| sr   | 153   | 6          |
-| bs   | 152   | 6          |
-| mt   | 1     | 0          |
-
- <br>
-
+    - 9 languages have a translation coverage of over 80% and are therefore suitable for use (see statistics below)
+    - en (100%), de (99%), pt (98%), cs (98%), fi (93%), es (92%), sl (86%), hu (81%), it (80%), nl (65%), fr (34%), pl (34%), da (34%), lt (29%), et (29%), sk (29%), no (28%), sv (27%), hr (27%), ro (23%), el (23%), is (22%), uk (22%), sq (6%), sr (6%), bs (6%), mt (1%)  
 
 **Changes Compared to Version 2.1:**
 
