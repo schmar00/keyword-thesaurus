@@ -191,7 +191,7 @@ https://github.com/schmar00/keyword-thesaurus/blob/cf094666a23d23d20b275fa9b294b
 ___
 ## Version 2.2 (2026)
 **Release notes (minor release):**  
-Additions to Thesaurus terms according to GSEU project  
+Additions to Thesaurus terms according to GSEU project, change of the base URI (domain name) urgently required for upcoming releases  
 
 **Overview**
 
