@@ -280,7 +280,11 @@ bs, cs, da, de, el, en, es, et, fi, fr, hr, hu, is, it, lt, mt, nl, no, pl, pt, 
 **15) Outlook Keyword Thesaurus** <br>
 
 A future major release in form of an EGDI keyword vocabulary is planned, potentially including:
-- a new base URI (subject to EGDI approval)
+- a new base URI (subject to EGDI approval)  
+
+**published 2026 at**  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18868253.svg)](https://doi.org/10.5281/zenodo.18868253)  
+
 
 
 
