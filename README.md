@@ -285,7 +285,104 @@ A future major release in form of an EGDI keyword vocabulary is planned, potenti
 **published 2026 at**  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18868253.svg)](https://doi.org/10.5281/zenodo.18868253)  
 
+___
+## Version 3.0 (2026)
 
+**Release notes (major release):**  
+Migration from GeoERA to EGDI keyword URIs; removal of obsolete RDF properties and HIKE-specific metadata; addition of nine geophysical and geotechnical concepts.
+
+**Overview**
+
+- Number of concepts: **2,761** (+9 compared to Version 2.2)
+- **16 categories** (unchanged)
+- Number of supported languages: **27** (unchanged)
+  - Translation coverage (preferred labels, rounded): en (100%), de (99%), pt (98%), cs (98%), fi (93%), es (92%), sl (86%), hu (81%), it (80%), nl (65%), fr (34%), pl (34%), da (34%), lt (29%), et (29%), sk (29%), no (28%), sv (27%), hr (27%), ro (23%), el (23%), is (22%), uk (22%), sq (6%), sr (6%), bs (6%), mt (<1%).
+- Number of RDF triples: **54,425** (previously 61,340; −6,915)
+
+
+**Changes Compared to Version 2.2:**
+
+**1) Base URI migration**  
+Changed the base URI from `https://data.geoscience.earth/ncl/geoera/keyword/` to `https://data.geoscience.earth/ncl/egdi/keyword/`, including the concept scheme URI.
+
+**2) Updated concept scheme metadata and memberships**  
+Updated concept scheme titles and descriptions from GeoERA to EGDI and selected administrative metadata. Added `skos:inScheme` for all nine new concepts.
+
+**3) Concepts merged, URI voided, and preserved name as hiddenLabel**  
+None.
+
+**4) Concepts renamed, preserved name as altLabel or related**  
+None. New `skos:altLabel` **"GPR"@en** added to *ground penetrating radar* (2656).
+
+**5) Concepts only renamed**  
+None.
+
+**6) Concepts deleted without substitution**  
+None. All 2,752 existing concepts are retained under the new URI namespace.
+
+**7) Concepts newly created**  
+9 concepts added:
+
+- magnetometry (3000)
+- Global Navigation Satellite System (3001; altLabel: GNSS)
+- Global Positioning System (3002; altLabel: GPS)
+- Galileo (3003)
+- borehole monitoring (3004)
+- subsurface imaging (3005)
+- electromagnetic sensors (3006)
+- geotechnical surveying (3007; altLabel: geotechnical survey equipment)
+- geophysical instrumentation (3008)
+
+**8) New ScopeNotes**  
+`"geophysics expertise hub keyword"` added to the nine new concepts and to existing concepts *geophysical method* (2124) and *ground penetrating radar* (2656).
+
+**9) New skos:broader**  
+9 new `skos:broader` relationships, exclusively for the nine new concepts (with corresponding `skos:narrower` relationships).
+
+**10) New search category**  
+None.
+
+**11) Mappings to INSPIRE and/or GEMET**  
+2 new GEMET mappings:
+
+- *electromagnetic sensors* (3006): `skos:broadMatch` → [GEMET concept 11700](http://www.eionet.europa.eu/gemet/concept/11700)
+- *geophysical instrumentation* (3008): `skos:relatedMatch` → [GEMET concept 11701](http://www.eionet.europa.eu/gemet/concept/11701)
+
+No new INSPIRE mappings.
+
+**12) Translations into other languages (ISO 639-1 codes)**  
+The 27 supported languages remain unchanged: bs, cs, da, de, el, en, es, et, fi, fr, hr, hu, is, it, lt, mt, nl, no, pl, pt, ro, sk, sl, sq, sr, sv, uk. Multilingual preferred labels were added for several new concepts.
+
+**13) Removed HIKE-specific metadata**  
+Removed **679** statements using HIKE-specific properties (numbers in parentheses indicate the number of removed triples):
+
+- `hike:related` (358)
+- `hike:label` (114)
+- `hike:id` (100)
+- `hike:seeAlso` (58)
+- `hike:definition` (32)
+- `hike:citation` (17)
+
+Removed **206** HIKE-specific `rdf:type` assignments:
+
+- `hike:KSP` (103)
+- `hike:HazardCause` (46)
+- `hike:ImpactType` (15)
+- `hike:HazardMechanism` (15)
+- `hike:HazardAnalysis` (14)
+- `hike:GeologicalSetting` (13).
+
+**14) Removed obsolete RDF properties**  
+Removal of legacy GeoERA properties and semantic cleanup.
+Removed **2,559** `dcterms:replaces`, **2,504** `skos:notation`, and **1,104** `skos:related` triples.
+
+**15) Open Issues**  
+1. **Content quality:** Refine categorization and concept relationships based on use cases yet to be provided by the Editorial Boards.
+2. **Governance:** Overall ownership and final decision-making authority for the EGDI Keyword Thesaurus are yet to be formally agreed upon.
+
+**16) Outlook Keyword Thesaurus**  
+1. **Vocabulary and categorization:** Add relevant terminology based on EGDI use cases and continue refining categories and hierarchical relationships.
+2. **Adoption and language coverage:** Support the use of EGDI concept URIs in applications and extend multilingual labels.
 
 
   
