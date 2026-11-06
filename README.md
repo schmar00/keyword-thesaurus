@@ -383,8 +383,9 @@ Removed **2,559** `dcterms:replaces`, **2,504** `skos:notation`, and **1,104** `
 **16) Outlook Keyword Thesaurus**  
 1. **Vocabulary and categorization:** Add relevant terminology based on EGDI use cases and continue refining categories and hierarchical relationships.
 2. **Adoption and language coverage:** Support the use of EGDI concept URIs in applications and extend multilingual labels.
-
-
+  
+published 2026  
+[![DOI](https://zenodo.org/badge/1052870919.svg)](https://doi.org/10.5281/zenodo.18868252)  
   
 
 
